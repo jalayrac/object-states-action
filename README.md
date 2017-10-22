@@ -40,13 +40,13 @@ The code was tested on Ubuntu 14.04 LTS with MATLAB-2016b.
   cd object-states-action
   ```
 
-2) Download and unpack the preprocessed features (both for NLP and VISION)
+2) Download and unpack the preprocessed features:
   ```Shell
   wget -P data http://www.di.ens.fr/willow/research/objectstates/release/features_data.zip
   unzip data/features_data.zip -d data
   ```
 
-5) Open MATLAB (edit the launch file to select the action you want among 'put_wheel' (default), 'withdraw_wheel', 'open_oyster', 'close_fridge', 'open_fridge' or 'place_plant'
+5) Open MATLAB (edit the launch file to select the action you want among 'put_wheel' (default), 'withdraw_wheel', 'open_oyster', 'close_fridge', 'open_fridge' or 'place_plant')
 
   ```Matlab
   compile.m
