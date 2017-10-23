@@ -43,7 +43,7 @@ The code was tested on Ubuntu 14.04 LTS with MATLAB-2016b.
 
 2) Download and unpack the preprocessed features:
   ```Shell
-  wget -P data http://www.di.ens.fr/willow/research/objectstates/release/features_data.zip
+  wget -P data http://www.di.ens.fr/~alayrac/release_iccv17/features_data.zip
   unzip data/features_data.zip -d data
   ```
 
