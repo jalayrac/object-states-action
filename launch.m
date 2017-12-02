@@ -8,7 +8,7 @@ seed = 370;
 niter = 600;
 
 % For the close_fridge and open_fridge action we do less iterations as it is a bit slower.w
-if action == 'close_fridge' | action == 'open_fridge'
+if strcmp(action, 'close_fridge') | strcmp(action, 'open_fridge')
     niter = 300;
 end
 

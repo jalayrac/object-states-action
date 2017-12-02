@@ -47,7 +47,7 @@ The code was tested on Ubuntu 14.04 LTS with MATLAB-2016b.
   unzip features_data.zip
   ```
 
-5) Open MATLAB (edit the launch file to select the action you want among 'put_wheel' (default), 'withdraw_wheel', 'open_oyster', 'close_fridge', 'open_fridge' or 'place_plant')
+5) Open MATLAB (edit the launch file to select the action you want among 'put_wheel' (default), 'withdraw_wheel', 'open_oyster', 'pour_coffee', 'close_fridge', 'open_fridge' or 'place_plant')
 
   ```Matlab
   compile.m
