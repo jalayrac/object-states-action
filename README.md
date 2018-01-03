@@ -6,7 +6,7 @@ Created by Jean-Baptiste Alayrac at INRIA, Paris.
 ### Introduction
 
 The webpage for this project is available [here](http://www.di.ens.fr/willow/research/objectstates/). It contains link to the [paper](http://www.di.ens.fr/willow/research/objectstates/paper.pdf), and other material about the work.
-This code reproduce the results presented in Table 1 of the paper for our method (meaning row **(f)** for state and row **(iv)** for actions).
+This code reproduces the results presented in Table 1 of the paper for our method (meaning row **(f)** for state and row **(iv)** for actions).
 
 ### License
 
@@ -27,6 +27,7 @@ If you find this code useful in your research, please, consider citing our paper
 
   1. [Requirements](#requirements)
   2. [Running the code](#running)
+  3. [Data usage](#data)
 
 ### Requirements
 
@@ -54,7 +55,7 @@ The code was tested on Ubuntu 14.04 LTS with MATLAB-2016b.
   launch.m
   ```
 
-### Data usage
+### Data
 
 You can download [metadata](http://www.di.ens.fr/~alayrac/release_iccv17/iccv2017_metadata.tar.gz) and the [raw images](http://www.di.ens.fr/~alayrac/release_iccv17/raw_images_iccv2017.tar.gz) (17GB).
 Here are some instructions to parse the metadata.
