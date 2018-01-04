@@ -65,7 +65,7 @@ The raw data is organized as follows:
 action_name -> action_name_clipid -> %06d.jpg
 ```
 
-**NB**: this data correspond to the cropped clips (see Section 5.2., Experimental Setup paragraph), so that you can directly compare to the experiments reported in Table 1 of the paper. 
+**NB**: this data correspond to the cropped clips (see *Sec. 5.2., Experimental setup paragraph* of the paper), so that you can directly compare to the experiments reported in Table 1 of the paper. 
 In particular, the numbers of tracklets and video chunk in these files should match the numbers of tracklets and video chunk of the features released above (the feature and data are actually aligned).
 If you need the non cropped clips for some reason (which have a bit more annotations), please send an email to the author.
 
