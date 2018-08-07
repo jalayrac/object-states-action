@@ -44,7 +44,7 @@ The code was tested on Ubuntu 14.04 LTS with MATLAB-2016b.
 
 2) Download and unpack the preprocessed features:
   ```Shell
-  wget http://www.di.ens.fr/~alayrac/release_iccv17/features_data.zip
+  wget https://www.di.ens.fr/willow/research/objectstates/features_data.zip  
   unzip features_data.zip
   ```
 
@@ -57,7 +57,7 @@ The code was tested on Ubuntu 14.04 LTS with MATLAB-2016b.
 
 ### Data
 
-You can download [metadata](http://www.di.ens.fr/~alayrac/release_iccv17/iccv2017_metadata.tar.gz) and the [raw images](http://www.di.ens.fr/~alayrac/release_iccv17/raw_images_iccv2017.tar.gz) (17GB).
+You can download [metadata](https://www.di.ens.fr/willow/research/objectstates/iccv2017_metadata.tar.gz) and the [raw images](https://www.di.ens.fr/willow/research/objectstates/raw_images_iccv2017.tar.gz) (17GB).
 Here are some instructions to parse the metadata.
 The raw data is organized as follows:
 
